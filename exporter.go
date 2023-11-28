@@ -51,6 +51,8 @@ var (
 		"sentinel_running_scripts":        "running_scripts",
 		"sentinel_scripts_queue_length":   "scripts_queue_length",
 		"sentinel_simulate_failure_flags": "simulate_failure_flags",
+		"sentinel_slaves_total":           "slaves",
+		"sentinel_sentinels_total":        "sentinels",
 	}
 )
 
